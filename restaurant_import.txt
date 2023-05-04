@@ -1,0 +1,6 @@
+TODO: Task 1 - Write the mongo import command here
+
+//Local:
+mongoimport --db="restDatab" --collection=AllRestaurants --file="C:\Users\user\ibf2022_batch3\ibf2022-batch3-paf-makeup-assessment\restaurants.json" --jsonArray
+
+//Remote:
